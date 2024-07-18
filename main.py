@@ -1,4 +1,5 @@
 import FreeSimpleGUI as fsg
+import functions
 
 label1 = fsg.Text("Select file(s) to compress: ")
 input_box1 = fsg.InputText()
